@@ -4,4 +4,4 @@ Only one disk can be moved at a time.
 A disk can only be placed on an empty rod or on top of a larger disk.
 No disk can be placed on top of a smaller disk.
 
-This program generate the solution for your tower of hanoi problem no matter how many disks you have
+This program generate the best possible solution for your tower of hanoi problem no matter how many disks you have
